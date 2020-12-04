@@ -20,10 +20,9 @@ html, body {
     font-weight: 700;
     color: #313133;
     background: #d14f4f;
-  background: linear-gradient(90deg, rgb(196, 44, 44) 0%, rgb(194, 0, 0) 100%);
+    background: linear-gradient(90deg, rgb(196, 44, 44) 0%, rgb(194, 0, 0) 100%);
     border: none;
     border-radius: 1000px;
-    box-shadow: 12px 12px 24px rgba(209, 79, 79, 0.64);
     transition: all 0.3s ease-in-out 0s;
     cursor: pointer;
     outline: none;
@@ -47,7 +46,7 @@ html, body {
   }
   
   .button:hover, .button:focus {
-    color: #313133;
+    color: #000000;
     transform: translateY(-6px);
   }
   
@@ -94,6 +93,11 @@ body{
 img{
     width: 15%;
 }
+
+a{
+    text-decoration: none;
+}
+
 .all{
     color: white;
     margin-left: auto;
