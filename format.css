@@ -97,11 +97,11 @@ a{
 }
 
 .all{
-    color: rgb(255, 255, 255);
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 12%;
-    width: 45%;
+  color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 12%;
+  width: 45%;
 }
 
 .dev_titre{
@@ -135,17 +135,14 @@ a{
 }
 
 body{
-  /* border: lawngreen solid; */
   background-color: black;
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  
-  overflow: hidden;
+  overflow-y: hidden;
 }
 
 .gauche{
-  /* border: magenta solid; */
   width: 40%;
   margin-left: auto;
   margin-right: auto;
@@ -154,7 +151,6 @@ body{
 
 .droite{
   width: 50%;
-  /* border: magenta solid; */
   border-left: red solid;
   margin-left: auto;
   margin-right: auto;
