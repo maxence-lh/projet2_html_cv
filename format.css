@@ -74,7 +74,7 @@ html, body {
     0% {
       width: 30px;
       height: 30px;
-      opacity: 2;
+      opacity: 1;
     }
     100% {
       width: 300px;
@@ -173,4 +173,4 @@ body{
 .java {width: 60%; background-color: #2196F3;}
 .php {width: 55%; background-color: #962e27;}
 .anglais {width: 60%; background-color: #d4bf02;}
-.español {width: 30%; background-color: #808080;}
+.espagnol {width: 30%; background-color: #808080;}
