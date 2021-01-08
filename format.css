@@ -156,3 +156,21 @@ body{
   margin-right: auto;
   overflow-x: auto;
 }
+
+.pourcentages {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.python {width: 70%; background-color: #4CAF50;}
+.java {width: 60%; background-color: #2196F3;}
+.php {width: 55%; background-color: #962e27;}
+.anglais {width: 60%; background-color: #d4bf02;}
+.español {width: 30%; background-color: #808080;}
